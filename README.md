@@ -125,6 +125,8 @@ GBT Best Model Accuracy (AUC): 0.7568403298350824
 Best Params for GBT: maxDepth=10
 maxIter=20
 
+Best Model: RandomForest with AUC: 0.7733320839580207
+
 ```
 ---
 
